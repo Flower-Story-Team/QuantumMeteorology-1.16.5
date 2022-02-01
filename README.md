@@ -25,7 +25,7 @@ Gradle Ver ：`7.1`
 
 ForgeGradle Ver ： `5.1.+`
 
-MCP Ver ： `1.16.5`
+API Ver ： `official-1.16.5`
 
 Forge Ver ： `1.16.5-36.2.23`
 
