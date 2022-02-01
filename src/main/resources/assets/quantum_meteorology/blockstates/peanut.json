@@ -1,0 +1,16 @@
+{
+  "forge_marker": 1,
+  "defaults": {"model": "crop"},
+  "variants": {
+    "age": {
+      "0": {"textures": {"crop": "quantum_meteorology:blocks/peanut_stage/0"}},
+      "1": {"textures": {"crop": "quantum_meteorology:blocks/peanut_stage/0"}},
+      "2": {"textures": {"crop": "quantum_meteorology:blocks/peanut_stage/1"}},
+      "3": {"textures": {"crop": "quantum_meteorology:blocks/peanut_stage/1"}},
+      "4": {"textures": {"crop": "quantum_meteorology:blocks/peanut_stage/2"}},
+      "5": {"textures": {"crop": "quantum_meteorology:blocks/peanut_stage/2"}},
+      "6": {"textures": {"crop": "quantum_meteorology:blocks/peanut_stage/3"}},
+      "7": {"textures": {"crop": "quantum_meteorology:blocks/peanut_stage/3"}}
+    }
+  }
+}

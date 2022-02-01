@@ -1,0 +1,18 @@
+{
+    "variants": {
+		"facing=north": { "model": "quantum_meteorology:coal_generator" },
+        "facing=south": { "model": "quantum_meteorology:coal_generator", "y": 180 },
+        "facing=west":  { "model": "quantum_meteorology:coal_generator", "y": 270 },
+        "facing=east":  { "model": "quantum_meteorology:coal_generator", "y": 90 },
+        
+		"facing=north,lit=false": { "model": "quantum_meteorology:coal_generator" },
+        "facing=south,lit=false": { "model": "quantum_meteorology:coal_generator", "y": 180 },
+        "facing=west,lit=false":  { "model": "quantum_meteorology:coal_generator", "y": 270 },
+        "facing=east,lit=false":  { "model": "quantum_meteorology:coal_generator", "y": 90 },
+        
+        "facing=north,lit=true": { "model": "quantum_meteorology:coal_generator_on" },
+        "facing=south,lit=true": { "model": "quantum_meteorology:coal_generator_on", "y": 180 },
+        "facing=west,lit=true":  { "model": "quantum_meteorology:coal_generator_on", "y": 270 },
+        "facing=east,lit=true":  { "model": "quantum_meteorology:coal_generator_on", "y": 90 }
+    }
+}

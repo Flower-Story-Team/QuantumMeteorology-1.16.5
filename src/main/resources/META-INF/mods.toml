@@ -1,0 +1,28 @@
+modLoader = "javafml"
+loaderVersion = "[36,)"
+license = "All rights reserved"
+#  issueTrackerURL = "https://change.me.to.your.issue.tracker.example.invalid/" #optional
+[[mods]]
+    modId = "quantum_meteorology"
+    version = "${file.jarVersion}"
+    displayName = "Quantum Meteorology"
+    #  updateJSONURL = "https://change.me.example.invalid/updates.json" #optional
+    #  displayURL = "https://change.me.to.your.mods.homepage.example.invalid/" #optional
+    #  logoFile = "quantum_meteorology.png" #optional
+    #  credits = "Thanks for this example mod goes to Java" #optional
+    authors = "Flower Team"
+    description = '''
+    Quantum Meteorology
+    '''
+[[dependencies.quantum_meteorology]] #optional
+    modId = "forge" #mandatory
+    mandatory = true #mandatory
+    versionRange = "[36,)" #mandatory
+    ordering = "NONE"
+    side = "BOTH"
+[[dependencies.quantum_meteorology]]
+    modId = "minecraft"
+    mandatory = true
+    versionRange = "[1.16.5,1.17)"
+    ordering = "NONE"
+    side = "BOTH"
