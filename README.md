@@ -23,7 +23,7 @@ Thinks from [here](https://www.mcbbs.net/forum.php?mod=viewthread&tid=1063599&pa
 
 Gradle Ver ：`7.1`
 
-ForgeGradle Ver ： `5 +`
+ForgeGradle Ver ： `5.1.+`
 
 MCP Ver ： `1.16.5`
 
