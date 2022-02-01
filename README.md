@@ -27,7 +27,7 @@ ForgeGradle Ver ： `5.1.+`
 
 MCP Ver ： `1.16.5`
 
-Forge Ver ： `1.16.5`
+Forge Ver ： `1.16.5-36.2.23`
 
 ### Download Snapshot Artifact
 
